@@ -6,12 +6,19 @@ https://cadecraft.herokuapp.com
 *YouTube:*
 https://www.youtube.com/c/AwesomeCadecraft
 <br>
-*SoundCloud:*
-https://soundcloud.com/cadecraft
+*Discord Server:*
+https://discord.gg/wahdQHBs4Z
 <br><br>
 Check out my upcoming game Lithium Wars Online!
 <br>
 https://lithiumwars.herokuapp.com
+
+<!-- *SoundCloud:*
+https://soundcloud.com/cadecraft
+<br>
+*AudioTool:*
+https://www.audiotool.com/user/cadecraft
+<br> -->
 
 <!---
 Cadecraft/Cadecraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
