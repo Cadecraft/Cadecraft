@@ -6,7 +6,7 @@ https://cadecraft.herokuapp.com
 *YouTube:*
 https://www.youtube.com/c/AwesomeCadecraft
 <br>
-*Discord Server:*
+*Discord server:*
 https://discord.gg/wahdQHBs4Z
 <br><br>
 Check out my upcoming game Lithium Wars Online!
