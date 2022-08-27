@@ -1,7 +1,7 @@
 I make games, software, and music.
 <br>
 *My site:*
-https://cadecraft.herokuapp.com
+https://cadecraft.github.io
 <br>
 *YouTube:*
 https://www.youtube.com/c/AwesomeCadecraft
