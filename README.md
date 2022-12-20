@@ -9,9 +9,9 @@ https://www.youtube.com/c/AwesomeCadecraft
 *Discord server:*
 https://discord.gg/wahdQHBs4Z
 <br><br>
-Check out my upcoming game Lithium Wars Online!
+Check out my upcoming game Landform Eclipse!
 <br>
-https://lithiumwars.herokuapp.com
+https://cadecraft.github.io/landform-eclipse
 
 <!-- *SoundCloud:*
 https://soundcloud.com/cadecraft
