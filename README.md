@@ -12,7 +12,7 @@ Check out my work:
 
 [LinkWebsite]: https://cadecraft.github.io/ 'My Personal Showcase'
 
-[ButtonWebsite]: https://img.shields.io/badge/🌎💻%20My%20Personal%20Showcase-4badd1?style=for-the-badge
+[ButtonWebsite]: https://img.shields.io/badge/🌎💻%20My%20Personal%20Showcase-217aaf?style=for-the-badge
 
 [![ButtonYt]][LinkYt]
 
