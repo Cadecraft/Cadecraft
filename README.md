@@ -18,7 +18,7 @@ Check out my work:
 
 [LinkYt]: https://www.youtube.com/watch?v=XUJ2iCkmNvI&list=PLbN2H2xs0W6tlWWImF9bK6xp-U0PCpN7a 'Listen to Cadecraft on YouTube'
 
-[ButtonYt]: https://img.shields.io/badge/🎵🎵%20Listen%20On%20YouTube-b31b1b?style=for-the-badge
+[ButtonYt]: https://img.shields.io/badge/🎧🎵%20Listen%20On%20YouTube-b31b1b?style=for-the-badge
 
 <hr>
 
