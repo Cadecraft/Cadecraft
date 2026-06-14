@@ -4,15 +4,15 @@
 
 I make games, software, and music.
 
-🧩👨‍💻🌐🎹
+🎲👨‍💻🌐🎹
 
 Check out my work:
 
 [![ButtonWebsite]][LinkWebsite]
 
-[LinkWebsite]: https://cadecraft.github.io/ 'My Personal Showcase'
+[LinkWebsite]: https://cadenlee.dev/cadecraft 'My Site'
 
-[ButtonWebsite]: https://img.shields.io/badge/🌎💻%20My%20Personal%20Showcase-217aaf?style=for-the-badge
+[ButtonWebsite]: https://img.shields.io/badge/🌎💻%20My%20Site-217aaf?style=for-the-badge
 
 [![ButtonYt]][LinkYt]
 
@@ -22,38 +22,14 @@ Check out my work:
 
 <hr>
 
-Languages and tools:
-<p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML 5" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS 3" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="32" height="32"/>
-    <br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.IO" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="OpenGL" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git/GitHub" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="Neovim/Vim" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="32" height="32"/>
-</p>
-
-<hr>
-
-Try my upcoming game Landform Eclipse!
+Can you outscore your friends?
 <br>
-<https://cadecraft.github.io/landform-eclipse>
+<https://fish.cadenlee.dev>
 
 <hr>
 
 This is my personal account; my professional account is [CadenLee2](https://github.com/CadenLee2).
 
-<https://cadecraft.github.io/> • [github.com/CadenLee2](https://github.com/CadenLee2) • [Discord Server](https://discord.gg/wahdQHBs4Z) • [YouTube](https://www.youtube.com/c/AwesomeCadecraft)
+<https://cadenlee.dev/cadecraft> • [github.com/CadenLee2](https://github.com/CadenLee2) • [YouTube](https://www.youtube.com/c/AwesomeCadecraft)
 
 </div>
